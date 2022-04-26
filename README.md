@@ -1,43 +1,26 @@
----
-title: Slides Template
-separator: <!--s-->
-verticalSeparator: <!--v-->
-theme: solarized
-revealOptions:
-    transition: 'fade'
----
-# Local
+# Interfaces Example
 
-This will serve the presentation
+## Concept
+Through the course of a small example of different shapes, the concept of interfaces should be made clear.  
+The program consists of a managable size and is prone to simplicity.
 
-and open a browser to view it
+## Setup
+### Interfaces and Classes
+#### IShape
+	 Defines an Interface for different classes, such as
+	 * Square 
 
-* clone the repo
-* edit the `slides.md` file
-* then:
+### Properties
+Abstract Declaration for X and the Y values.
 
-npm install
-npm run presentation
+### Methods
+A Draw() function to Draw the shape on the screen.
 
+## Process
+{describes the build process of the program (the approach, etc.)}
 
-Note: This is a speaker note, you need node 6.x installed
+## Result and Output
+{Showcase the expected result for the program}
 
-<!--s-->
-
-# GitHub Pages
-
-* fork the repo
-* setup a build in travis for the fork - don't forget the env var with your personal access token
-* edit the `slides.md` file
-* push to github
-* view presentation on GitHub - in the project pages for your repo
-
-<!--v-->
-
-# References
-
-* [reveal-md](https://github.com/webpro/reveal-md)
-* [reveal.js](http://lab.hakim.se/reveal-js)
-* [GitHub Pages](https://pages.github.com)
-* [Travis CI](https://travis-ci.org)
-* [This template](https://github.com/martinmurphy/slidestemplate)
+## Room for optimization
+{What can be optimized?}
