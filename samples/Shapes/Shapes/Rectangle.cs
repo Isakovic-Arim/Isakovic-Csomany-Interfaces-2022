@@ -6,24 +6,23 @@ using System.Threading.Tasks;
 
 namespace Shapes
 {
-    // A class can only inherit from one class, but an unspecified number of interfaces as so:
-    // class MyClass : Class1, Interface1, Interface2 ...
-    class Square : IShape
+    class Rectangle : IShape
     {
         private ConsoleColor _color;
         private int _mX, _mY;
 
-        private int length = new Random().Next(5, 10);
+        private int length = new Random().Next(6, 10);
+        private int width = new Random().Next(4, 8);
 
-        // A class implementing an interface MUST define all the members declared in the interface
         public void Draw()
         {
             Console.ForegroundColor = Color;
+
             for (int i = 0; i < Console.WindowHeight - Y; i++)
             {
                 Console.WriteLine();
             }
-            for (int i = 0; i < length; i++)
+            for (int i = 0; i < width; i++)
             {
                 for (int j = 0; j < X; j++)
                 {
@@ -35,6 +34,7 @@ namespace Shapes
                 }
                 Console.WriteLine();
             }
+
             Console.ForegroundColor = ConsoleColor.White;
         }
 

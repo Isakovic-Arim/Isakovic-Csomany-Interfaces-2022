@@ -1,0 +1,15 @@
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\bin\Debug\net6.0\ref\Shapes.dll
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\obj\Debug\net6.0\ref\Shapes.dll
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Schulzwecke\PROO\Übungen\Interfaces\Isakovic-Interfaces-2022\samples\Shapes\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache

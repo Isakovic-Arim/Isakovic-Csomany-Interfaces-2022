@@ -9,8 +9,9 @@ namespace Shapes
     interface IShape
     {
         // due to abstraction no deklarations are necessary
-        double X { get; set; }
-        double Y { get; set; }
+        ConsoleColor Color { get; set; }
+        int X { get; set; }
+        int Y { get; set; }
         void Draw();
     }
 

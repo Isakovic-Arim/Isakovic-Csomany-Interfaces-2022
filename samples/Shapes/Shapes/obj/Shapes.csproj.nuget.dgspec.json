@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\Shapes\\Shapes\\Shapes.csproj": {}
+    "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\samples\\Shapes\\Shapes\\Shapes.csproj": {}
   },
   "projects": {
-    "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\Shapes\\Shapes\\Shapes.csproj": {
+    "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\samples\\Shapes\\Shapes\\Shapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\Shapes\\Shapes\\Shapes.csproj",
+        "projectUniqueName": "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\samples\\Shapes\\Shapes\\Shapes.csproj",
         "projectName": "Shapes",
-        "projectPath": "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\Shapes\\Shapes\\Shapes.csproj",
+        "projectPath": "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\samples\\Shapes\\Shapes\\Shapes.csproj",
         "packagesPath": "C:\\Users\\isako\\.nuget\\packages\\",
-        "outputPath": "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\Shapes\\Shapes\\obj\\",
+        "outputPath": "C:\\Schulzwecke\\PROO\\Übungen\\Interfaces\\Isakovic-Interfaces-2022\\samples\\Shapes\\Shapes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isako\\AppData\\Roaming\\NuGet\\NuGet.Config",
