@@ -9,6 +9,7 @@ The program consists of a managable size and is prone to simplicity.
 #### IShape
 Defines an Interface for different classes, such as
 * Square 
+* Rectangle
 
 ### Properties
 Abstract Declaration for X and the Y values.
