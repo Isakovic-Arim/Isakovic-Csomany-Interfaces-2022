@@ -13,7 +13,7 @@ namespace Shapes
         private ConsoleColor _color;
         private int _mX, _mY;
 
-        private int length = new Random().Next(5, 10);
+        private readonly int length = new Random().Next(5, 10);
 
         // A class implementing an interface MUST define all the members declared in the interface
         public void Draw()
@@ -23,7 +23,7 @@ namespace Shapes
             {
                 Console.WriteLine();
             }
-            for (int i = 0; i < length; i++)
+            for (int i = 0; i < length * 0.5; i++) // multiply by 0.5 to make it look more like a square, rather than a rectangle
             {
                 for (int j = 0; j < X; j++)
                 {

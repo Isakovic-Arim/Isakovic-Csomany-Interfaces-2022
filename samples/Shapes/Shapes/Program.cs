@@ -6,6 +6,8 @@ namespace Shapes
     {
         public static void Main()
         {
+            Console.Clear();
+
             // Object references can be declared using an interface type
             IShape shape = new Square();
             shape.X = 10;

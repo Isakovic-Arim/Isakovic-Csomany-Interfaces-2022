@@ -11,8 +11,8 @@ namespace Shapes
         private ConsoleColor _color;
         private int _mX, _mY;
 
-        private int length = new Random().Next(6, 10);
-        private int width = new Random().Next(4, 8);
+        private readonly int length = new Random().Next(9,20);
+        private readonly int width = new Random().Next(4, 8);
 
         public void Draw()
         {
