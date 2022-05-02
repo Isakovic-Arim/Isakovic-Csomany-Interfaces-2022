@@ -12,12 +12,10 @@ Defines an Interface for different classes, such as
 * Rectangle
 
 ### Properties
-Abstract Declaration for X and the Y values.
+Abstract Declaration for the X and Y values.
 
 ### Methods
 A Draw() function to Draw the shape on the screen.
 
-## Process
-
 ## Result and Output
-Successful implementation of different shapes with an interface and output on screen.
+Prints the different shapes with random sizes on the screen.

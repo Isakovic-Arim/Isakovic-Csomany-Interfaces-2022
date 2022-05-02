@@ -16,12 +16,13 @@ namespace Shapes
             shape.Draw();
 
             shape = new Rectangle();
-            shape.X = 30;
-            shape.Y = 30;
+            shape.X = 60;
+            shape.Y = 60;
             shape.Color = ConsoleColor.Red;
             shape.Draw();
-            
-            Console.WriteLine("Zum Schließen beliebige Taste drücken...");
+
+            Console.WriteLine();
+            Console.WriteLine("Press any key...");
             Console.ReadKey();
         }
     }

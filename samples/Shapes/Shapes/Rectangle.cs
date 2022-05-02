@@ -12,7 +12,7 @@ namespace Shapes
         private int _mX, _mY;
 
         private readonly int length = new Random().Next(9,20);
-        private readonly int width = new Random().Next(4, 8);
+        private readonly int width = new Random().Next(6, 16);
 
         public void Draw()
         {

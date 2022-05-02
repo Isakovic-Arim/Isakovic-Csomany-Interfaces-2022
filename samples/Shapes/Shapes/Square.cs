@@ -13,7 +13,7 @@ namespace Shapes
         private ConsoleColor _color;
         private int _mX, _mY;
 
-        private readonly int length = new Random().Next(5, 10);
+        private readonly int length = new Random().Next(12, 20);
 
         // A class implementing an interface MUST define all the members declared in the interface
         public void Draw()
